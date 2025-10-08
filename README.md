@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Vitor Duarte 👩🏻‍💻
+# Vitor Duarte
 
 **`Desenvolvedor Back-End`**
 
